@@ -2,4 +2,4 @@ Hugging Face collab - https://colab.research.google.com/drive/1KSmJtyUsYP83uwV-G
 
 Gradio collab - https://colab.research.google.com/drive/1tsnxtqYchYTKn96iFEHRhziiqASwfzKk?usp=sharing#scrollTo=91356334
 
-Assignment collab - https://colab.research.google.com/drive/1pU4kdMrJekmAArUzGmteE7ZwZJYsC0xN#scrollTo=2uRw9YNZfP13
+Assignment collab - https://colab.research.google.com/drive/1nSAai_k4vZt5NVQRJaSZUyq6oQu2Vnmr?usp=sharing#scrollTo=9Q7o5cLdhoCA
